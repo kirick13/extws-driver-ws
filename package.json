@@ -1,0 +1,34 @@
+{
+	"name": "extws-driver-ws",
+	"version": "1.0.0-beta.114",
+	"description": "Driver for ExtWS server based on ws.",
+	"main": "main.js",
+	"engines": {
+		"node": ">10.0.0"
+	},
+	"dependencies": {
+		"ip-address": "^8.1.0",
+		"ws": "^8.3.0"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kirick13/extws-driver-ws.git"
+	},
+	"keywords": [
+		"websocket",
+		"ws",
+		"networking",
+		"extws",
+		"server",
+		"driver"
+	],
+	"author": "Daniil Kirichenko (https://twitter.com/kirickme)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kirick13/extws-driver-ws/issues"
+	},
+	"homepage": "https://github.com/kirick13/extws-driver-ws#readme"
+}
